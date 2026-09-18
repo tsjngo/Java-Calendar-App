@@ -1,0 +1,17 @@
+{"calendars": [{
+    "name": "Birthday Calendar",
+    "tasks": [
+        {
+            "date": "2026-01-01",
+            "name": "Test Reminder 1",
+            "time": "00:00",
+            "info": "2026 New Year"
+        },
+        {
+            "date": "2025-12-31",
+            "name": "Test Reminder 2",
+            "time": "23:59",
+            "info": ""
+        }
+    ]
+}]}

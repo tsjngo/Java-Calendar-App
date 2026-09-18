@@ -1,0 +1,21 @@
+{
+    "calendars": [
+        {
+            "name": "calendar 1",
+            "tasks": [
+                {
+                    "name": "reminder 1",
+                    "date": "2025-12-23",
+                    "info": "birthday",
+                    "time": "00:00"
+                },
+                {
+                    "name": "reminder 2",
+                    "date": "2026-01-01",
+                    "info": "new year",
+                    "time": "00:00"
+                }
+            ]
+        }
+    ]
+}

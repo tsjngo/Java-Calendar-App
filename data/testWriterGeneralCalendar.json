@@ -1,0 +1,17 @@
+{"calendars": [{
+    "name": "test calendar",
+    "tasks": [
+        {
+            "date": "2025-12-23",
+            "name": "reminder1",
+            "time": "12:00",
+            "info": "Test Reminder"
+        },
+        {
+            "date": "2025-12-23",
+            "name": "reminder2",
+            "time": "12:00",
+            "info": ""
+        }
+    ]
+}]}
